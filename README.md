@@ -1,4 +1,4 @@
-**# PC Builder Web Application**
+# PC Builder Web Application
 
 The PC Builder website application will first prompt users to sign up/log in.
 
