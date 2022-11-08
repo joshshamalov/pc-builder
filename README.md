@@ -1,4 +1,4 @@
-# PC Builder Web Application
+**# PC Builder Web Application**
 
 The PC Builder website application will first prompt users to sign up/log in.
 
@@ -8,4 +8,5 @@ The system will then generate a list of PC parts that will be added to the users
 
 Lastly, the user will be able to purchase the computer parts from trusted third-party websites.
 
-Team J.A.C.K.
+
+_Team J.A.C.K._
